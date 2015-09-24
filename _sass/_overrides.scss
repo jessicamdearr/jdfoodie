@@ -1,0 +1,104 @@
+article.post-content {
+  padding-top: 1em;
+  text-align: center;
+  img {
+    width: 530px;
+    }
+  }
+
+.about-page {
+  text-align: left;
+  img {
+    width: 350px !important;
+    float: left;
+    margin-right: 2em;
+    margin-bottom: 1em;
+  }
+}
+
+ul.post-list{
+  margin-top: 7em;
+  h2 {
+    margin-top: 0;
+    font-size: 20px;
+  }
+  img {
+    width: 300px;
+  }
+  li {
+    list-style-type: none;
+    padding-bottom: 3em;
+  }
+  .post-meta {
+    display: block;
+    border-bottom: 1px solid #C0C0C0;
+    text-align: left;
+    position: relative;
+    top: -35px;
+    margin-top: 25px;
+    abbr {
+      display: inline-block;
+      position: relative;
+      margin: 0 auto;
+      padding: 0 8px;
+      background: $background-color;
+      top: 12px;
+    }
+  }
+} 
+
+
+body {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    font-weight: 300;
+    color: $text-color;
+    background-color: $background-color;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+a {
+    color: $brand-color;
+    text-decoration: none;
+
+    &:visited {
+        color: darken($brand-color, 15%);
+    }
+
+    &:hover {
+        color: $text-color;
+        text-decoration: none;
+    }
+}
+
+a.site-title {
+  font-size: 2.2em;
+  &:hover {
+    color: #A0A0A0;
+  }
+}
+
+.nav-links {
+  padding-top: 1.3em;
+  a {
+    color: #A0A0A0;
+    &:hover {
+      color: $text-color;
+    }
+  }
+}
+
+.site-header {
+  border-bottom: 1px solid #111;
+  position: fixed;
+  z-index: 5;
+  width: 100%;
+  background-color: $background-color;
+}
+
+.post-title {
+  font-size: 25px;
+  margin-top: 4em;
+}
