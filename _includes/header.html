@@ -5,9 +5,15 @@
     </div>
     <div class="col-md-3 nav-links">
       <ul class="list-inline">
-        {% for page in site.pages %}
-        {% if page.title %}
-          <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        {% for link in site.pages %}
+        {% if link.title %}
+          <li>
+            {% if link.url == page.url %}
+            {{ link.title }}
+            {% else %}
+              <a class="page-link" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+            {% endif %}
+          </li>
         {% endif %}
         {% endfor %}
       </ul>

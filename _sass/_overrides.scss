@@ -1,6 +1,6 @@
 article.post-content {
   padding-top: 1em;
-  text-align: center;
+  text-align: left;
   img {
     width: 530px;
     }
@@ -26,13 +26,17 @@ div.post-list {
     }
     .post-image {
       text-align: center;
+      margin-top: 1ex;
       display: block;
+      height: 154px;
+      overflow: hidden;
+      border: 2px solid $background-color;
       img {
-        margin: 1ex auto;
+        margin: 0 auto;
       }
     }
     aside {
-      font-size: .7em;
+      font-size: .8em;
       text-align: center;
       color: $grey-color;
     }
@@ -41,6 +45,13 @@ div.post-list {
       text-align: justify;
       a {
         color: #660033;
+      }
+    }
+    div.highlighter {
+      &:hover {
+        .post-image {
+          border: 2px solid #111;
+        }
       }
     }
   }
@@ -55,7 +66,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
-    padding-top: 60px;
+    padding-top: 54px;
 }
 
 
@@ -99,23 +110,41 @@ a.site-title {
   background-color: $background-color;
 }
 
-.home-picture {
-  background-color: $background-color;
-  background-image: url(/images/banner.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  margin-top: 56px;
-  height: 35em;
+.post-title {
+  font-size: 5em;
+  margin-top: 1ex;
+  text-align: center;
 }
 
-.post-title {
-  font-size: 25px;
-  margin-top: 4em;
+.post-header .post-meta {
+  text-align: center;
+}
+
+.carousel {
+  border-bottom: 1px solid #111;
 }
 
 .homepage-carousel {
   .carousel-inner {
-    height: 35em;
+    height: 32em;
+    // img {
+    //   margin-top: -70px;
+    // }
   }  
+}
+
+@media only screen and (min-width: 1300px) {
+  .homepage-carousel {
+    .carousel-inner {
+      height: 50em;
+    }  
+  }
+}
+
+@media only screen and (min-width: 1800px) {
+  .homepage-carousel {
+    .carousel-inner {
+      height: 60em;
+    }  
+  }
 }
