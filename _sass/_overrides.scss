@@ -94,8 +94,19 @@ a.site-title {
   border-bottom: 1px solid #111;
   position: fixed;
   z-index: 5;
+  top: 0;
   width: 100%;
   background-color: $background-color;
+}
+
+.home-picture {
+  background-color: $background-color;
+  background-image: url(/images/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  margin-top: 56px;
+  height: 35em;
 }
 
 .post-title {
