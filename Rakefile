@@ -22,5 +22,5 @@ task :publish => [:generate] do
   #   system "git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
   #   system "git push origin master:refs/heads/gh-pages --force"
   # end
-  system "s3_website push --dry-run --verbose"
+  system "s3_website push --verbose"
 end
