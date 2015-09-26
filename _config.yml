@@ -7,3 +7,10 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+exclude: 
+  - Rakefile
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - s3_website.yml
