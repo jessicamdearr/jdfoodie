@@ -1,17 +1,21 @@
-<div id="homepage-carousel" class="carousel homepage-carousel slide" data-ride="carousel" data-interval="6000">
+<div id="homepage-carousel" class="carousel homepage-carousel slide carousel-fade hidden-xs hidden-sm" data-ride="carousel" data-interval="6000">
 
   <ol class="carousel-indicators">
     {% for post in site.posts %}
+    {% if forloop.index0 < 6 %}
     <li data-target="#homepage-carousel" data-slide-to="{{forloop.index0}}" class="{% if forloop.first %}active{% endif %}"></li>
+    {% endif %}
     {% endfor %}
   </ol>
 
 
   <div class="carousel-inner" role="listbox">
     {% for post in site.posts %}
+    {% if forloop.index0 < 6 %}
     <div class="item {% if forloop.first %}active{% endif %}">
       <img src="/images/carousel/{{post.carousel_image}}" class="img-responsive center-block" alt="...">
     </div>
+    {% endif %}
     {% endfor %}
   </div>
 

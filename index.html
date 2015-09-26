@@ -10,7 +10,7 @@ layout: homepage
     {% for post in site.posts %}
       <div class="col-md-4 post-tile">
         <div class="highlighter"><a class="post-image" href="{{ post.url | prepend: site.baseurl }}">
-          <img class="img-responsive" src="/images/carousel/{{post.carousel_image}}"/>
+          <img class="img-responsive" src="/images/tile-image/{{post.tile_image}}"/>
         </a>
 
         <h2>
@@ -20,8 +20,7 @@ layout: homepage
         <aside>{{ post.date | date: "%B %-d, %Y" }}</aside>
 
         <p>
-          {{ post.excerpt }} <br/>
-          <a href="{{ post.url | prepend: site.baseurl }}">Read more&#133;</a>
+          {{ post.excerpt }}
         </p>
       </div>
     {% cycle '', '', '</div><div class="post-list row">' %}

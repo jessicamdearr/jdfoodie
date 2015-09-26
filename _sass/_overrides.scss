@@ -1,38 +1,88 @@
 article.post-content {
   padding-top: 1em;
   text-align: left;
-  img {
-    width: 530px;
+  font-size: 1.5em;
+  margin: 0 auto;
+  width: 1060px;
+  p {
+    margin-bottom: 1em;
+    line-height: 1.75em;
+    img.pull-left {
+      margin-right: 1em;
+      margin-bottom: 1ex;
+    }
+    img.pull-right {
+      margin-left: 1em;
+      margin-bottom: 1ex;
     }
   }
+  img.wide-photo {
+    width: 100%;
+    clear: both;
+    margin-bottom: 1em;
+  }
+  img {
+    width: 350px;
+    border: 1px solid #111;
+  }
+}
+
+.post-standard {
+  p {
+    img.pull-left, img.pull-right {
+      margin-top: 1ex;
+    }
+  }
+}
+
+.main-blog-photo {
+  border-top: 1px solid #111;
+  border-bottom: 1px solid #111;
+  img {
+    width: 100% !important;
+  }
+}
+
+.photo-array {
+  margin-bottom: 1em;
+  img {
+    margin-left: .5ex;
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+  
+}
 
 .about-page {
   text-align: left;
   img {
     width: 350px !important;
     float: left;
-    margin-right: 2em;
+    margin-right: 1.7em;
     margin-bottom: 1em;
+    border: 2px solid #111;
   }
 }
 
 div.post-list {
   div.post-tile {
+    padding-bottom: .75em;
     h2 {
-      font-size: 130%;
+      font-size: 155%;
       text-align: center;
       margin-top: 10px;
-      margin-bottom: 5px;
+      margin-bottom: 0;
     }
     .post-image {
       text-align: center;
       margin-top: 1ex;
       display: block;
-      height: 154px;
-      overflow: hidden;
-      border: 2px solid $background-color;
       img {
+        width: 356px;
+        height: 154px;
         margin: 0 auto;
+        border: 2px solid #cdcdcd;
       }
     }
     aside {
@@ -49,7 +99,7 @@ div.post-list {
     }
     div.highlighter {
       &:hover {
-        .post-image {
+        .post-image img {
           border: 2px solid #111;
         }
       }
@@ -86,6 +136,9 @@ a {
 
 a.site-title {
   font-size: 2.2em;
+  i {
+    font-size: 0.5em;
+  }
   &:hover {
     color: #A0A0A0;
   }
@@ -118,6 +171,7 @@ a.site-title {
 
 .post-header .post-meta {
   text-align: center;
+  color: $grey-color;
 }
 
 .carousel {
@@ -148,3 +202,34 @@ a.site-title {
     }  
   }
 }
+
+.carousel-fade .carousel-inner .item {
+  -webkit-transition-property: opacity;
+          transition-property: opacity;
+}
+.carousel-fade .carousel-inner .item,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  opacity: 0;
+}
+.carousel-fade .carousel-inner .active,
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+.carousel-fade .carousel-inner .next,
+.carousel-fade .carousel-inner .prev,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+}
+.carousel-fade .carousel-control {
+  z-index: 2;
+}
+// // .carousel,
+// // .carousel-inner,
+// // .carousel-inner .item {
+// //   height: 100%;
+// // }

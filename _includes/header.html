@@ -1,9 +1,7 @@
 <header class="site-header">
   <div class="container">
-    <div style="text-align:left;" class="col-md-6"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></div>
-    <div class="col-md-3">
-    </div>
-    <div class="col-md-3 nav-links">
+    <div class="text-nowrap col-md-6 col-sm-3 col-xs-3 text-left"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }} &middot;</a></div>
+    <div class="col-md-offset-3 col-md-3 nav-links col-sm-offset-0 text-right">
       <ul class="list-inline">
         {% for link in site.pages %}
         {% if link.title %}
