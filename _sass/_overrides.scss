@@ -138,12 +138,16 @@ a {
 
 a.site-title {
   font-size: 2.2em;
-  i {
-    font-size: 0.5em;
-  }
+  padding-left: 20px;
   &:hover {
     color: #A0A0A0;
   }
+}
+
+.header-logo {
+  background-image: url(/images/logo_header.png);
+  background-repeat: no-repeat;
+  background-position: 5px 0;
 }
 
 .nav-links {
