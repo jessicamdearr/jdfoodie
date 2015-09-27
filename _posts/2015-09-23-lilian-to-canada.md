@@ -10,13 +10,15 @@ carousel_image: enchilada.jpg
 
 
 
-<p>Bacon ipsum dolor amet ham picanha boudin pork sausage chicken hamburger beef pastrami fatback frankfurter beef ribs. Pork loin swine pancetta beef kielbasa t-bone kevin sausage frankfurter picanha fatback boudin pastrami salami tri-tip. Short loin jowl pig turducken pastrami pork belly biltong hamburger pancetta. Prosciutto ham shank drumstick capicola ball tip. Turducken rump shank swine pastrami tri-tip. Beef tongue fatback shank shoulder boudin. Turkey shank doner, ground round pastrami pork belly pork loin biltong salami sausage hamburger chuck t-bone.</p>
+<p>A few years ago, my good friend took me out for some Mexican food at Javier's, and I have been hooked ever since. It could get a little expensive but it is definitely worth it. I love the flavors they put into their dishes, especially into their ceviches.</p>
 
 <div class="photo-array">
 <img src="/images/posts/2015-09-23-lilian-to-canada/enchilada3.jpg"/><img src="/images/posts/2015-09-23-lilian-to-canada/ceviche.jpg"/><img src="/images/posts/2015-09-23-lilian-to-canada/habanero_marg.jpg"/>
 </div>
 
-<p>Rump turkey alcatra jerky t-bone. Ground round flank pork chop pork loin rump jowl. Sirloin ribeye rump doner biltong fatback alcatra pig. Pastrami doner flank bacon boudin shank salami. Ham biltong chicken ball tip sausage flank spare ribs ham hock. Shoulder corned beef kielbasa beef short ribs filet mignon, pork tail sausage venison sirloin. Meatball bacon rump sirloin, pork alcatra tail leberkas shank meatloaf t-bone kielbasa ribeye corned beef tri-tip.</p>
+<p>I always love to go for as much variety as possible, so instead of getting a plate with two of the same flavor of item, I like to go for duos or trios. This time, I went for the trio of enchiladas, which included dungenous crab, lobster and shrimp - really really great stuff. They make cheese work with seafood!!</p>
 
-<p>Tri-tip ribeye kevin salami kielbasa. Kevin ribeye jowl, venison drumstick shankle kielbasa meatloaf pastrami tri-tip sirloin sausage spare ribs flank. Short ribs bresaola leberkas, picanha jerky meatloaf swine. Sirloin pancetta shoulder, porchetta shank beef ribs cupim.</p>
+<p>My FAVORITE flavor ever is probably sour, and that is why I love Javier's ceviches. I always used to get the pulpo (octopus) version, but lately I have been asking for a mix between the fish and shrimp. It is just soooooo sour and amazing, with really bright and bold flavors. I could definitely go for some of this at any time.</p>
+
+<p>Another favorite of mine is Jalapeño margaritas, but only if they are extremely spicy. I am usually disappointed by jalapeño margaritas from restaurants because they are never spicy enough. This time, however, I emphasized my want for extra jalapeños, and they ended up putting ground up habanero peppers in it, and the waiter even warned me that it would be too much. I got a disclaimer! I loved it though. It was exactly what I had in mind when I asked for extra spicy. All in all a great meal, as usual!</p>
 
