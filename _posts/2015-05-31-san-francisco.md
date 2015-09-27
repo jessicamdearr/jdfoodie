@@ -9,18 +9,22 @@ carousel_image: burmese.jpg
 main_photo: posts/2015-05-31-san-francisco/ggbridge.jpg
 ---
 
-<p>Bacon ipsum dolor amet ham picanha boudin pork sausage chicken hamburger beef pastrami fatback frankfurter beef ribs. Pork loin swine pancetta beef kielbasa t-bone kevin sausage frankfurter picanha fatback boudin pastrami salami tri-tip. Short loin jowl pig turducken pastrami pork belly biltong hamburger pancetta. Prosciutto ham shank drumstick capicola ball tip. Turducken rump shank swine pastrami tri-tip. Beef tongue fatback shank shoulder boudin. Turkey shank doner, ground round pastrami pork belly pork loin biltong salami sausage hamburger chuck t-bone.</p>
+<p>I got the rare opportunity to be able to visit my best friend, Kiope, in her new apartment in San Francisco. I had never really explored the city prior to this trip, so I was particularly excited to run around town with someone who was familiar with the area and knew of all the good food spots. San Francisco's weather is so hard to deal with! I never knew how to dress because i would be hot one moment, and freezing cold the next. It definitely made me appreciate the consistent weather I live in in Socal.</p>
 
 <div class="photo-array">
 <img alt="scomabuilding" src="/images/posts/2015-05-31-san-francisco/scomabuilding.jpg" /><img alt="oysters" src="/images/posts/2015-05-31-san-francisco/scomas.jpg" /><img alt="scomawine" src="/images/posts/2015-05-31-san-francisco/scomawine.jpg" />
 </div>
 
-<p>Rump turkey alcatra jerky t-bone. Ground round flank pork chop pork loin rump jowl. Sirloin ribeye rump doner biltong fatback alcatra pig. Pastrami doner flank bacon boudin shank salami. Ham biltong chicken ball tip sausage flank spare ribs ham hock. Shoulder corned beef kielbasa beef short ribs filet mignon, pork tail sausage venison sirloin. Meatball bacon rump sirloin, pork alcatra tail leberkas shank meatloaf t-bone kielbasa ribeye corned beef tri-tip.</p>
+<p>My dad grew up in San Francisco, so before my trip, I asked for some restaurant tips. My entire family always raves about this little seaside restaurant called Scoma's in Fisherman's Wharf, so I decided to give it a try. Kiope and I just shared some clam chowder and oysters, since it was a snack stop for us. The oysters were incredibly fresh, and it was great to just take back some of those with a glass of white wine. There is nothing like straight up seafood from a place right on the water.</p>
 
 <div class="photo-array">
 <img alt="jook" src="/images/posts/2015-05-31-san-francisco/jook.jpg" /><img alt="salad" src="/images/posts/2015-05-31-san-francisco/burmese3.jpg" /><img alt="brunchdrink" src="/images/posts/2015-05-31-san-francisco/brunchdrink.jpg" />
 </div>
 
-<p>Tri-tip ribeye kevin salami kielbasa. Kevin ribeye jowl, venison drumstick shankle kielbasa meatloaf pastrami tri-tip sirloin sausage spare ribs flank. Short ribs bresaola leberkas, picanha jerky meatloaf swine. Sirloin pancetta shoulder, porchetta shank beef ribs cupim.</p>
+<p>Next up was Burmese food! There are a lot of Burmese restaurants up in San Francisco, and they are really popular. There is a restaurant called Burma Star that we did not get to go to, as the line was out the door. Instead, we went to a smaller joint with the same owners, called B-Star. It was my first time trying Burmese food, so I was excited to give it a shot. The menu had some items that were familiar to me, one in particular called jook. Jook is a rice porridge and usually has some add-ins such as pork, vegetables, fishcakes, etc. This jook had so many toppings! I really liked it. The other dish we ordered was the fermented tea leaf salad. It was also packed with so many ingredients, but I'm not sure if this flavor combination was for me. It was nutty, spicy, sweet and sour all at the same time, and I think I would have prefered some of the toppings left out.</p>
+
+<img class="wide-photo" alt="fairmont" src="/images/posts/2015-05-31-san-francisco/fairmont.jpg" />
+
+<p>When visiting other cities, I love to get tips from not only my friends and family, but also Anthony Bourdain! Kiope and I watched his show on San Francisco, and he mentioned a huge tiki bar called Tonga in the basement of the Fairmont hotel in Nob Hill, so we got all dressed up and went! Their drinks were so strong, and some were literally on fire. It was such a fun place to drink and dance!</p>
 
 
