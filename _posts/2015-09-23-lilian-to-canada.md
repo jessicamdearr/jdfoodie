@@ -10,7 +10,7 @@ carousel_image: enchilada.jpg
 
 
 
-<p>A few years ago, my good friend took me out for some Mexican food at Javier's, and I have been hooked ever since. It could get a little expensive but it is definitely worth it. I love the flavors they put into their dishes, especially into their ceviches.</p>
+<p>A few years ago, my good friend Lilian took me out for some Mexican food at Javier's, and I have been hooked ever since. It could get a little expensive but it is definitely worth it. I love the flavors they put into their dishes, especially into their ceviches. Since Lilian was leaving for Canada the next day, I found it the perfect excuse to head over to Javier's for some fun!</p>
 
 <div class="photo-array">
 <img src="/images/posts/2015-09-23-lilian-to-canada/enchilada3.jpg"/><img src="/images/posts/2015-09-23-lilian-to-canada/ceviche.jpg"/><img src="/images/posts/2015-09-23-lilian-to-canada/habanero_marg.jpg"/>
