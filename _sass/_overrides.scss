@@ -27,8 +27,10 @@ article.post-content {
     width: auto;
   }
   img {
-    width: 350px;
     border: 1px solid #111;
+  }
+  div.row + div.row, div.row + p {
+  margin-top: 1ex;
   }
 }
 
@@ -48,15 +50,14 @@ article.post-content {
   }
 }
 
-.photo-array {
-  margin-bottom: 1em;
-  img {
-    margin-left: .5ex;
-    &:first-child {
-      margin-left: 0;
-    }
+.row-no-padding {
+  [class*="col-"] {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
   }
-  
+  [class*="col-"]:first-child {
+    padding-left:inherit !important;
+  }
 }
 
 .about-page {
