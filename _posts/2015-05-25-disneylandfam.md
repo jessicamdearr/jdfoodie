@@ -12,8 +12,11 @@ carousel_image: montecristo.jpg
 <p>Back in January, my dad coerced me into doing an overnight shift at a Disney 10k race passing out waters and supplies. I think I complained non-stop, but the light at the end of the tunnel was a free disneyland parkhopper! My annual pass had expired so I was pretty happy about the free ticket. My uncle and cousin had also participated in this event, so they along with my dad and I went for some food and rides.
 </p>
 
-<div>
-<img src="/images/posts/2015-05-25-disneylandfam/beefcrepe.jpg"/><img src="/images/posts/2015-05-25-disneylandfam/montecristo2.jpg"/><img src="/images/posts/2015-05-25-disneylandfam/mickeybeignets.jpg"/>
+<div class="row">
+<div class="col-sm-4"><img class="img-responsive" alt="beefcrepe" src="/images/posts/2015-05-25-disneylandfam/beefcrepe.jpg" /></div>
+<div class="col-sm-4"><img class="img-responsive" alt="montecristo" src="/images/posts/2015-05-25-disneylandfam/montecristo2.jpg" /></div>
+<div class="col-sm-4"><img class="img-responsive" alt="mickey" src="/images/posts/2015-05-25-disneylandfam/mickeybeignets.jpg" />
+</div>
 </div>
 
 I had had so many different foods from Disneyland in the past, but one restaurant, called Cafe Orleans, always seemed so out of reach for me. It was impossible to ever get reservations, and after my lunch there, I realize why. They are most famous for their Montecristo sandwich, which is a ham and cheese sandwich dipped in batter, deep fried and covered in powdered sugar. I finally had the chance to try this, after something like two years of bad luck. It was really light, surprisingly. I definitely recommend! 
