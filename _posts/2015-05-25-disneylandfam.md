@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Disneyland with Family"
+title:  "Disneyland Café Orleans"
 date:   2015-05-25
 author: Jessica Dear
 excerpt: An exciting trip to Disneyland in which my family and I got to try some new restaurants!

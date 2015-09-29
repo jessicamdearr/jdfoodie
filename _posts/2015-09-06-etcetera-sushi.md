@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ETCetera Sushi"
+title:  "ETCetera"
 date:   2015-09-06
 author: Jessica Dear
 excerpt: Found a great new sushi bar in Costa Mesa!!

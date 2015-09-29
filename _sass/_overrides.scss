@@ -107,7 +107,7 @@ a {
 
 a.site-title {
   font-size: 2.2em;
-  padding-left: 20px;
+  padding-left: 30px;
   font-family: 'EB Garamond', serif;
   &:hover {
     color: #A0A0A0;
@@ -115,9 +115,10 @@ a.site-title {
 }
 
 .header-logo {
-  background-image: url(/images/logo_header.png);
+  background-image: url(/images/logo.svg);
   background-repeat: no-repeat;
-  background-position: 5px 0;
+  background-size: 50px 50px;
+  background-position: 0 0;
 }
 
 .nav-links {

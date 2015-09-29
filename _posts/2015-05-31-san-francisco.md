@@ -31,6 +31,6 @@ main_photo: posts/2015-05-31-san-francisco/ggbridge.jpg
 
 <img class="img-responsive" alt="fairmont" src="/images/posts/2015-05-31-san-francisco/fairmont.jpg" />
 
-<p>When visiting other cities, I love to get tips from not only my friends and family, but also Anthony Bourdain! Kiope and I watched his show on San Francisco, and he mentioned a huge tiki bar called Tonga in the basement of the Fairmont hotel in Nob Hill, so we got all dressed up and went! Their drinks were so strong, and some were literally on fire. It was such a fun place to drink and dance!</p>
+<p>When visiting other cities, I love to get tips from not only my friends and family, but also Anthony Bourdain! Kiope and I watched his show on San Francisco in which he mentioned a neat tiki bar called Tonga in the basement of the Fairmont hotel in Nob Hill, so we got all dressed up and went! Their drinks were so strong, and some were literally on fire. It was such a fun place to drink and dance!</p>
 
 
