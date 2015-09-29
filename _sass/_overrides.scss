@@ -2,34 +2,14 @@ article.post-content {
   padding-top: 1em;
   text-align: left;
   font-size: 1.5em;
-  margin: 0 auto;
-  width: 1060px;
   p {
     margin-bottom: 1em;
     line-height: 1.75em;
-    img.pull-left {
-      clear: both;
-      margin-right: 1em;
-      margin-bottom: 1ex;
-    }
-    img.pull-right {
-      clear: both;
-      margin-left: 1em;
-      margin-bottom: 1ex;
-    }
-  }
-  img.wide-photo {
-    width: 100%;
-    clear: both;
-    margin-bottom: 1em;
-  }
-  img.slightly-wider-photo {
-    width: auto;
   }
   img {
     border: 1px solid #111;
   }
-  div.row + div.row, div.row + p {
+  div.row + div.row, div.row + p, img.img-responsive + p {
   margin-top: 1ex;
   }
 }
@@ -45,19 +25,6 @@ article.post-content {
 .main-blog-photo {
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
-  img {
-    width: 100% !important;
-  }
-}
-
-.row-no-padding {
-  [class*="col-"] {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-  [class*="col-"]:first-child {
-    padding-left:inherit !important;
-  }
 }
 
 .about-page {
@@ -141,6 +108,7 @@ a {
 a.site-title {
   font-size: 2.2em;
   padding-left: 20px;
+  font-family: 'EB Garamond', serif;
   &:hover {
     color: #A0A0A0;
   }
@@ -175,6 +143,7 @@ a.site-title {
   font-size: 5em;
   margin-top: 1ex;
   text-align: center;
+  font-family: 'EB Garamond', serif;
 }
 
 .post-header .post-meta {
@@ -188,26 +157,44 @@ a.site-title {
 
 .homepage-carousel {
   .carousel-inner {
-    height: 32em;
-    // img {
-    //   margin-top: -70px;
-    // }
+    height: 30em;
   }  
 }
 
-@media only screen and (min-width: 1300px) {
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
   .homepage-carousel {
     .carousel-inner {
-      height: 50em;
+      height: 27em;
     }  
   }
 }
 
-@media only screen and (min-width: 1800px) {
-  .homepage-carousel {
-    .carousel-inner {
-      height: 60em;
-    }  
+@media only screen and (max-width: 767px) {
+  body {
+    font-size: 12px;
+  }
+  article.post-content {
+    text-align: justify;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .row-no-padding {
+    .col-sm-4 {
+      width: 31.6%;
+    }
+    [class*="col-"] {
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+    [class*="col-"]:first-child {
+      margin-left:15px !important;
+      margin-right:3px !important;
+    }
+    [class*="col-"]:last-child {
+      margin-right:15px !important;
+      margin-left:3px !important;
+    }
   }
 }
 
@@ -237,8 +224,9 @@ a.site-title {
   z-index: 2;
 }
 
-a.carousel-control {
+a.carousel-control.right, a.carousel-control.left {
   opacity: 1;
+  background-image: none;
 }
 
 .pagination li {
@@ -256,5 +244,19 @@ a.carousel-control {
         color: $text-color;
         background-color: #C0C0C0;
       }
+  }
+}
+
+.ingredient-list {
+  list-style-type: square;
+}
+
+.recipe-photos img {
+  margin-bottom: 1ex;
+}
+
+.photo-array {
+  .visible-xs-block {
+    font-size: 5px;
   }
 }

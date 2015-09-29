@@ -29,7 +29,7 @@ main_photo: posts/2015-05-31-san-francisco/ggbridge.jpg
 
 <p>Next up was Burmese food! There are a lot of Burmese restaurants up in San Francisco, and they are really popular. There is a restaurant called Burma Star that we did not get to go to, as the line was out the door. Instead, we went to a smaller joint with the same owners, called B-Star. It was my first time trying Burmese food, so I was excited to give it a shot. The menu had some items that were familiar to me, one in particular called jook. Jook is a rice porridge and usually has some add-ins such as pork, vegetables, fishcakes, etc. This jook had so many toppings! I really liked it. The other dish we ordered was the fermented tea leaf salad. It was also packed with so many ingredients, but I'm not sure if this flavor combination was for me. It was nutty, spicy, sweet and sour all at the same time, and I think I would have prefered some of the toppings left out.</p>
 
-<img class="wide-photo" alt="fairmont" src="/images/posts/2015-05-31-san-francisco/fairmont.jpg" />
+<img class="img-responsive" alt="fairmont" src="/images/posts/2015-05-31-san-francisco/fairmont.jpg" />
 
 <p>When visiting other cities, I love to get tips from not only my friends and family, but also Anthony Bourdain! Kiope and I watched his show on San Francisco, and he mentioned a huge tiki bar called Tonga in the basement of the Fairmont hotel in Nob Hill, so we got all dressed up and went! Their drinks were so strong, and some were literally on fire. It was such a fun place to drink and dance!</p>
 

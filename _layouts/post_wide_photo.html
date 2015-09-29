@@ -20,16 +20,16 @@
         </div>
       </div>
     </div>
-  <div class="main-blog-photo"><img src="/images/{{ page.main_photo }}"></div>
-
+  <div class="container-fluid"><div class="row main-blog-photo"><img class="img-responsive" src="/images/{{ page.main_photo }}"></div>
+</div>
     <div class="container">
       <div class="page-content">
         <div class="wrapper">
-          <div class="post">
+          <div class="post center-block">
 
-            <article class="post-content">
-              {{ content }}
-            </article>
+            <div class="col-md-12 col-lg-11 center-block" style="float: none;">
+              <article class="post-content">{{ content }}</article>
+            </div>
 
           </div>
         </div>

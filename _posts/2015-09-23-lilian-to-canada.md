@@ -12,8 +12,11 @@ carousel_image: enchilada.jpg
 
 <p>A few years ago, my good friend Lilian took me out for some Mexican food at Javier's, and I have been hooked ever since. It could get a little expensive but it is definitely worth it. I love the flavors they put into their dishes, especially into their ceviches. Since Lilian was leaving for Canada the next day, I found it the perfect excuse to head over to Javier's for some fun!</p>
 
-<div class="photo-array">
-<img src="/images/posts/2015-09-23-lilian-to-canada/enchilada3.jpg"/><img src="/images/posts/2015-09-23-lilian-to-canada/ceviche.jpg"/><img src="/images/posts/2015-09-23-lilian-to-canada/habanero_marg.jpg"/>
+<div class="row row-no-padding">
+<div class="col-sm-4"><img class="img-responsive" alt="enchilada" src="/images/posts/2015-09-23-lilian-to-canada/enchilada3.jpg" /></div>
+<div class="col-sm-4"><img class="img-responsive" alt="ceviche" src="/images/posts/2015-09-23-lilian-to-canada/ceviche.jpg" /></div>
+<div class="col-sm-4"><img class="img-responsive" alt="marg" src="/images/posts/2015-09-23-lilian-to-canada/habanero_marg.jpg" />
+</div>
 </div>
 
 <p>I always love to go for as much variety as possible, so instead of getting a plate with two of the same flavor of item, I like to go for duos or trios. This time, I went for the trio of enchiladas, which included dungenous crab, lobster and shrimp - really really great stuff. They make cheese work with seafood!!</p>

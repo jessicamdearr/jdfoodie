@@ -12,7 +12,7 @@ carousel_image: montecristo.jpg
 <p>Back in January, my dad coerced me into doing an overnight shift at a Disney 10k race passing out waters and supplies. I think I complained non-stop, but the light at the end of the tunnel was a free disneyland parkhopper! My annual pass had expired so I was pretty happy about the free ticket. My uncle and cousin had also participated in this event, so they along with my dad and I went for some food and rides.
 </p>
 
-<div class="row">
+<div class="row row-no-padding">
 <div class="col-sm-4"><img class="img-responsive" alt="beefcrepe" src="/images/posts/2015-05-25-disneylandfam/beefcrepe.jpg" /></div>
 <div class="col-sm-4"><img class="img-responsive" alt="montecristo" src="/images/posts/2015-05-25-disneylandfam/montecristo2.jpg" /></div>
 <div class="col-sm-4"><img class="img-responsive" alt="mickey" src="/images/posts/2015-05-25-disneylandfam/mickeybeignets.jpg" />
