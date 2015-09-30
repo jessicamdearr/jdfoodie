@@ -1,4 +1,4 @@
-<header class="site-header">
+<!-- <header class="site-header">
   <div class="container">
     <div class="text-nowrap col-md-6 col-sm-3 col-xs-3 text-left header-logo"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }} &middot;</a></div>
     <div class="col-md-offset-3 col-md-3 nav-links col-sm-offset-0 text-right">
@@ -15,7 +15,7 @@
             {% if link.url == page.url %}
             {{ link.title }}
             {% else %}
-              <a class="page-link" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+              <p class="navbar-text navbar-right"><a href="{{ link.url | prepend: site.baseurl }}" class="navbar-link">{{ link.title }}</a></p>
             {% endif %}
           </li>
         {% endif %}
@@ -25,4 +25,35 @@
 
     </div>
   </div>
-</header>
+</header> -->
+
+  <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand header-logo" href="{{ site.baseurl }}/">{{ site.title }} &middot;</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        {% for link in site.pages %}
+        {% if link.title %}
+            {% if link.url == page.url %}
+            <li class="active"><a href="#">{{ link.title }}</a></li>
+            {% else %}
+            <li>
+              <a href="{{ link.url | prepend: site.baseurl }}" class="navbar-link">{{ link.title }}</a></li>
+            {% endif %}
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
