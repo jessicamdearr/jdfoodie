@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lilian off to Canada"
+title:  "Javier's - Happy travels"
 date:   2015-09-23
 author: Jessica Dear
 excerpt: Out in Irvine at Javier's to wish a good friend safe travels to Canada.
@@ -19,7 +19,7 @@ carousel_image: enchilada.jpg
 </div>
 </div>
 
-<p>I always love to go for as much variety as possible, so instead of getting a plate with two of the same flavor of item, I like to go for duos or trios. This time, I went for the trio of enchiladas, which included dungenous crab, lobster and shrimp - really really great stuff. They make cheese work with seafood!!</p>
+<p>I always love to go for as much variety as possible, so instead of getting a plate with two of the same flavor of item, I like to go for duos or trios. This time, I went for the trio of enchiladas, which included dungenous crab, lobster and shrimp - really really great stuff. They make cheese work with seafood so flawlessly!!</p>
 
 <p>My FAVORITE flavor ever is probably sour, and that is why I love Javier's ceviches. I always used to get the pulpo (octopus) version, but lately I have been asking for a mix between the fish and shrimp. It is just soooooo sour and amazing, with really bright and bold flavors. I could definitely go for some of this at any time.</p>
 
