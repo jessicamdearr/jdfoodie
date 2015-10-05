@@ -10,6 +10,8 @@ task :generate do
 end
 
 
+# TODO: Make this error out if the code has uncommited files in the workspace
+# TODO: make this also tag the repo
 desc "Generate and publish blog to gh-pages"
 task :publish => [:generate] do
   # Dir.mktmpdir do |tmp|
@@ -24,3 +26,15 @@ task :publish => [:generate] do
   # end
   system "s3_website push --verbose"
 end
+
+desc "Dev Mode (Serve Locally)"
+task :serve do
+  options = {
+    'serving' => true,
+    'watch' => true,
+    'force_polling' => true,
+  }
+  Jekyll::Commands::Build.process(options)
+  Jekyll::Commands::Serve.process(options)
+end
+
