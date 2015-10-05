@@ -3,7 +3,7 @@ layout: post
 title:  "Filet Dinner Buddy"
 date:   2015-09-02
 author: Jessica Dear
-excerpt: My old friend Kyle invited me up to LA to teach me how to marinate and grill a great steak. I spent most of the time drinking wine, but oh well!
+excerpt: My old friend Kyle invited me up to LA to teach me how to marinate and grill a great steak.
 tile_image: filet.jpg
 carousel_image: filet.jpg
 ---
