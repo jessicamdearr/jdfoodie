@@ -2,7 +2,7 @@
 title: JD Foodie
 email: jessicamdearr@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://jdfoodie.com" # the base hostname & protocol for your site
 paginate: 12
 paginate_path: "/blog/page:num"
 

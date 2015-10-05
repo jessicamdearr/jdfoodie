@@ -35,7 +35,7 @@ tags:
 </ul>
 </blockquote>
 
-<p>Preheat oil to 400 degrees Farenheit using a candy thermometer. Meanwhile, combine salt, pepper, garlic powder and onion powder in a bowl. In a small saucepan, heat the butter and mix in the hot sauce until combined. Set aside. Season chicken wings on both sides with the seasoning mixture. Drop chicken wings in the preheated oil and cook for 5 minutes. Flip and repeat for 5 minutes, and repeat until total cooking time equals 20 minutes. Remove from oil and pour over hot sauce mixture until throroughly coated. Serve hot with celery sticks and blue cheese sauce or ranch!</p>
+<p>Preheat oil to 400F using a candy thermometer. Meanwhile, combine salt, pepper, garlic powder and onion powder in a bowl. In a small saucepan, heat the butter and mix in the hot sauce until combined. Set aside. Season chicken wings on both sides with the seasoning mixture. Drop chicken wings in the preheated oil and cook for 5 minutes. Flip and repeat for 5 minutes, and repeat until total cooking time equals 20 minutes. Remove from oil and pour over hot sauce mixture until throroughly coated. Serve hot with celery sticks and blue cheese sauce or ranch!</p>
 
 </div>
 </div>

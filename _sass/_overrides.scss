@@ -46,6 +46,8 @@ div.post-list {
       text-align: center;
       margin-top: 10px;
       margin-bottom: 0;
+      font-family: 'EB Garamond', serif;
+      font-weight: normal;
     }
     .post-image {
       text-align: center;
@@ -87,7 +89,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
-    padding-top: 70px;
+    padding-top: 50px;
 }
 
 
@@ -116,6 +118,7 @@ a.navbar-brand {
 .navbar {
   margin-bottom: 0;
   background-color: $background-color;
+  border-bottom: 1px solid #111;
 }
 
 .header-logo {
@@ -133,15 +136,6 @@ a.navbar-brand {
       color: $text-color;
     }
   }
-}
-
-.site-header {
-  border-bottom: 1px solid #111;
-  position: fixed;
-  z-index: 5;
-  top: 0;
-  width: 100%;
-  background-color: $background-color;
 }
 
 .post-title {
@@ -174,12 +168,16 @@ a.navbar-brand {
   }
 }
 
+// fuont size adjustments for small screens
 @media only screen and (max-width: 767px) {
   body {
     font-size: 12px;
   }
   article.post-content {
     text-align: justify;
+  }
+  div.post-list div.post-tile p {
+    text-align: center;
   }
 }
 
@@ -264,4 +262,8 @@ a.carousel-control.right, a.carousel-control.left {
   .visible-xs-block {
     font-size: 5px;
   }
+}
+
+footer.global-footer {
+  margin-top: 2em;
 }
