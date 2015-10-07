@@ -12,6 +12,10 @@ article.post-content {
   div.row + div.row, div.row + p, img.img-responsive + p {
   margin-top: 1ex;
   }
+  a {
+    text-decoration: underline;
+
+  }
 }
 
 .post-standard {
