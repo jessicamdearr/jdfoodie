@@ -33,7 +33,7 @@ gzip: false
 
 # s3_reduced_redundancy: true
 
-cloudfront_distribution_id: E306RZW0770T6Y
+cloudfront_distribution_id: E306RZWO770T6Y
 
 # cloudfront_distribution_config:
 #   default_cache_behavior:
