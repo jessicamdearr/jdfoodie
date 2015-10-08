@@ -20,7 +20,7 @@ max_age: 120
 #   - .css
 #   - .md
 # gzip_zopfli: true
-gzip: true
+gzip: false
 
 # See http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region for valid endpoints
 # s3_endpoint: ap-northeast-1
@@ -33,7 +33,7 @@ gzip: true
 
 # s3_reduced_redundancy: true
 
-cloudfront_distribution_id: EHHM1W2OAZ2BC
+cloudfront_distribution_id: E306RZW0770T6Y
 
 # cloudfront_distribution_config:
 #   default_cache_behavior:

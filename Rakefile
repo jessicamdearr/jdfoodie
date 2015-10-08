@@ -5,7 +5,7 @@ task :generate do
   Jekyll::Site.new(Jekyll.configuration({
     "source"      => ".",
     "destination" => "_site",
-    "asset_url" => "http://jdfoodie.com"
+    "asset_url" => "http://ddshryj9gmxor.cloudfront.net"
   })).process
 end
 
