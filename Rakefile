@@ -1,11 +1,11 @@
 require "jekyll"
-require "tmpdir"
 
 desc "Generate blog files"
 task :generate do
   Jekyll::Site.new(Jekyll.configuration({
     "source"      => ".",
-    "destination" => "_site"
+    "destination" => "_site",
+    "asset_url" => "http://jdfoodie.com"
   })).process
 end
 
@@ -14,16 +14,6 @@ end
 # TODO: make this also tag the repo
 desc "Generate and publish blog to gh-pages"
 task :publish => [:generate] do
-  # Dir.mktmpdir do |tmp|
-  #   cp_r "_site/.", tmp
-  #   Dir.chdir tmp
-  #   system "git init"
-  #   system "git add ."
-  #   message = "Site updated at #{Time.now.utc}"
-  #   system "git commit -m #{message.shellescape}"
-  #   system "git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
-  #   system "git push origin master:refs/heads/gh-pages --force"
-  # end
   system "s3_website push --verbose"
 end
 

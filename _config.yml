@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jdfoodie.com" # the base hostname & protocol for your site
 paginate: 12
 paginate_path: "/blog/page:num"
-asset_url: "http://jdfoodie.com"
+asset_url: ""
 
 # Build settings
 markdown: kramdown

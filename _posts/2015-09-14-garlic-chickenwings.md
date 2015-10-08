@@ -12,7 +12,7 @@ tags:
 
 <div class="row post-recipe">
 <div class="col-md-5 recipe-photos">
-  <img class="img-responsive center-block" src="/images/posts/2015-09-14-garlic-chicken/garlic_chicken.jpg"/>
+  <img class="img-responsive center-block" src="{{site.asset_url}}/images/posts/2015-09-14-garlic-chicken/garlic_chicken.jpg"/>
 </div>
 
 <div class="col-md-7">

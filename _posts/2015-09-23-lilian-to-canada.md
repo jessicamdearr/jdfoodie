@@ -13,9 +13,9 @@ carousel_image: enchilada.jpg
 <p>A few years ago, my good friend Lilian took me out for some Mexican food at <a href="http://www.javiers-cantina.com/#!/page_HOME" target="_blank">Javier's</a>, and I have been hooked ever since. It could get a little expensive but it is definitely worth it. I love the flavors they put into their dishes, especially into their ceviches. Since Lilian was leaving for Canada the next day, I found it the perfect excuse to head over for some Mexican food and cocktails.</p>
 
 <div class="row row-no-padding">
-<div class="col-sm-4"><img class="img-responsive" alt="enchilada" src="/images/posts/2015-09-23-lilian-to-canada/enchilada3.jpg" /></div>
-<div class="col-sm-4"><img class="img-responsive" alt="ceviche" src="/images/posts/2015-09-23-lilian-to-canada/ceviche.jpg" /></div>
-<div class="col-sm-4"><img class="img-responsive" alt="marg" src="/images/posts/2015-09-23-lilian-to-canada/habanero_marg.jpg" />
+<div class="col-sm-4"><img class="img-responsive" alt="enchilada" src="{{site.asset_url}}/images/posts/2015-09-23-lilian-to-canada/enchilada3.jpg" /></div>
+<div class="col-sm-4"><img class="img-responsive" alt="ceviche" src="{{site.asset_url}}/images/posts/2015-09-23-lilian-to-canada/ceviche.jpg" /></div>
+<div class="col-sm-4"><img class="img-responsive" alt="marg" src="{{site.asset_url}}/images/posts/2015-09-23-lilian-to-canada/habanero_marg.jpg" />
 </div>
 </div>
 
