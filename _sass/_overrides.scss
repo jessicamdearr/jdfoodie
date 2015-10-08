@@ -256,6 +256,9 @@ a.carousel-control.right, a.carousel-control.left {
 
 .ingredient-list {
   list-style-type: square;
+  li {
+    text-align: left;
+  }
 }
 
 .recipe-photos img {
