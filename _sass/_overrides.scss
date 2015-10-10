@@ -184,7 +184,8 @@ a.navbar-brand {
 @media only screen and (min-width: 768px) {
   .row-no-padding {
     .col-sm-4 {
-      width: 32%;
+      width: 32.05%;
+      // 940px - 
     }
     [class*="col-"] {
       padding-left: 0 !important;
@@ -197,6 +198,14 @@ a.navbar-brand {
     [class*="col-"]:last-child {
       margin-right:15px !important;
       margin-left:3px !important;
+    }
+  }
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+  .row-no-padding {
+    .col-sm-4 {
+      width: 31.6666666%;
     }
   }
 }
