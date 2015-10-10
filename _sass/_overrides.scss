@@ -154,10 +154,6 @@ a.navbar-brand {
   color: $grey-color;
 }
 
-.carousel {
-  border-bottom: 1px solid #111;
-}
-
 .homepage-carousel {
   .carousel-inner {
     height: 30em;
@@ -277,4 +273,25 @@ a.carousel-control.right, a.carousel-control.left {
 
 footer.global-footer {
   margin-top: 2em;
+}
+
+.wide-photo-post {
+  background-color: #f2f2f2;
+}
+
+@media only screen and (min-width: 1800px) {
+  .wide-photo-post {
+    img.img-responsive {
+      max-width: 1800px;
+    }
+  }
+  .homepage-carousel {
+      max-width: 1800px;
+  }
+}
+
+.carousel-container {
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #111;
+  padding: 0;
 }
