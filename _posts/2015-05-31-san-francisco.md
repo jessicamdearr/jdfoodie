@@ -3,7 +3,7 @@ layout: post_wide_photo
 title:  "San Francisco"
 date:   2015-05-31
 author: Jessica Dear
-excerpt: A visit to my best friend in San Francisco where I was taken all around town to site see and eat and drink at all kinds of great places! 
+excerpt: A visit to my best friend in San Francisco where I was taken all around town to sightsee and eat and drink at all kinds of great places! 
 tile_image: burmese.jpg
 carousel_image: burmese.jpg
 main_photo: posts/2015-05-31-san-francisco/ggbridge.jpg
