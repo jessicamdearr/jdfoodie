@@ -1,0 +1,8 @@
+<section class="prevnext">
+  <nav>
+  <ul class="pager">
+    {% if page.next %}<li class="previous"><a href="{{ page.next.url | prepend: site.baseurl }}"><span aria-hidden="true">&larr;</span> Newer</a></li>{% endif %}
+    {% if page.previous %}<li class="next"><a href="{{ page.previous.url | prepend: site.baseurl }}">Older <span aria-hidden="true">&rarr;</span></a></li>{% endif %}
+  </ul>
+</nav>
+</section>

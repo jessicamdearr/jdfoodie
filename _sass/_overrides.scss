@@ -282,6 +282,14 @@ a.carousel-control.right, a.carousel-control.left {
 
 footer.global-footer {
   margin-top: 2em;
+  background-color: #fdfdfd;
+  height: auto;
+  border-top: 1px solid #111;
+  text-align: center;
+  small {
+    font-size: 60%;
+    color: #c0c0c0;
+  }
 }
 
 .wide-photo-post {
@@ -303,4 +311,8 @@ footer.global-footer {
   background-color: #f2f2f2;
   border-bottom: 1px solid #111;
   padding: 0;
+}
+
+.prevnext {
+  margin-bottom: 3em;
 }
