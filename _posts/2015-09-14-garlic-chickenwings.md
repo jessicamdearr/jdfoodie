@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Garlic Chicken Wings"
-date:   2015-09-06
+date:   2015-09-13
 author: Jessica Dear
 excerpt: Check out my recipe for great chicken wings!
 tile_image: garlic_chicken.jpg

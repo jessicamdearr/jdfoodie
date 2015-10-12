@@ -13,7 +13,9 @@ main_photo: posts/2015-05-31-san-francisco/ggbridge.jpg
 
 <div class="row row-no-padding">
 <div class="col-sm-4"><img class="img-responsive" alt="scomabuilding" src="{{site.asset_url}}/images/posts/2015-05-31-san-francisco/scomabuilding.jpg" /></div>
+<div class="visible-xs-block">&nbsp;</div>
 <div class="col-sm-4"><img class="img-responsive" alt="oysters" src="{{site.asset_url}}/images/posts/2015-05-31-san-francisco/scomas.jpg" /></div>
+<div class="visible-xs-block">&nbsp;</div>
 <div class="col-sm-4"><img class="img-responsive" alt="scomawine" src="{{site.asset_url}}/images/posts/2015-05-31-san-francisco/scomawine.jpg" />
 </div>
 </div>
@@ -22,7 +24,9 @@ main_photo: posts/2015-05-31-san-francisco/ggbridge.jpg
 
 <div class="row row-no-padding">
 <div class="col-sm-4"><img class="img-responsive" alt="jook" src="{{site.asset_url}}/images/posts/2015-05-31-san-francisco/jook.jpg" /></div>
+<div class="visible-xs-block">&nbsp;</div>
 <div class="col-sm-4"><img class="img-responsive" alt="salad" src="{{site.asset_url}}/images/posts/2015-05-31-san-francisco/burmese3.jpg" /></div>
+<div class="visible-xs-block">&nbsp;</div>
 <div class="col-sm-4"><img class="img-responsive" alt="brunchdrink" src="{{site.asset_url}}/images/posts/2015-05-31-san-francisco/brunchdrink.jpg" />
 </div>
 </div>
